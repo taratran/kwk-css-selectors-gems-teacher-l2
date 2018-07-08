@@ -10,7 +10,7 @@
 
 /* Select the image with class of emerald */
 
-#emerald {
+.emerald {
   position: absolute;
   z-index: 2;
   top: 350px;
